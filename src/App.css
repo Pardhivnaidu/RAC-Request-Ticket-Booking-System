@@ -1,0 +1,27 @@
+.UserBodyContainer {
+  text-align: center;
+  width: 950px;
+  padding: 20px;
+   /* <-- Adds spacing inside */
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-top: max(100px, 5vh);
+}
+
+.CurrentStatusBookingconfirm {
+  background-color: #eefceb;
+  padding: 10px;
+   margin-bottom: 30px;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.CurrentStatusWaitingList{
+    background-color:#fcebeb;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: left;
+  
+}
